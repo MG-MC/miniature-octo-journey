@@ -75,7 +75,7 @@ print('The most popular product sold in the month of March is', pop_prod, 'from 
 
 
 # Regression question
-# dependent variable: revenue aggregated at the yearly level
+# dependent variable: revenue aggregated at the monthly level
 
 
 # create an aggregated table of revenue by month-year
